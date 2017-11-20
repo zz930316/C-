@@ -1,0 +1,4 @@
+﻿  12-5.cpp
+e:\vs2010\c++\第十二章习题\12-5.cpp(25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  第十二章习题.vcxproj -> E:\vs2010\C++\Debug\第十二章习题.exe
+  第十二章习题.vcxproj -> E:\vs2010\C++\Debug\第十二章习题.pdb (Partial PDB)

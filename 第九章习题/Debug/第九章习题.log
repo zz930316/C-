@@ -1,0 +1,10 @@
+﻿  9-12.cpp
+e:\vs2010\c++\第九章习题\9-12.cpp(23): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  e:\vs2010\c++\第九章习题\9-12.cpp(22): note: 编译 类 模板 成员函数 "int Time<int,double>::max(void)" 时
+  e:\vs2010\c++\第九章习题\9-12.cpp(35): note: 参见对正在编译的函数 模板 实例化“int Time<int,double>::max(void)”的引用
+  e:\vs2010\c++\第九章习题\9-12.cpp(34): note: 参见对正在编译的 类 模板 实例化 "Time<int,double>" 的引用
+e:\vs2010\c++\第九章习题\9-12.cpp(29): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  e:\vs2010\c++\第九章习题\9-12.cpp(28): note: 编译 类 模板 成员函数 "int Time<int,double>::min(void)" 时
+  e:\vs2010\c++\第九章习题\9-12.cpp(36): note: 参见对正在编译的函数 模板 实例化“int Time<int,double>::min(void)”的引用
+  第九章习题.vcxproj -> E:\vs2010\C++\Debug\第九章习题.exe
+  第九章习题.vcxproj -> E:\vs2010\C++\Debug\第九章习题.pdb (Partial PDB)

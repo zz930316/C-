@@ -1,0 +1,27 @@
+﻿  源.cpp
+e:\vs2017\c++\vector\源.cpp(1508): error C2084: 函数“int main(void)”已有主体
+  e:\vs2017\c++\vector\源.cpp(642): note: 参见“main”的前一个定义
+  TextQuery.cpp
+e:\vs2017\c++\vector\textquery.cpp(29): error C2228: “.assign”的左边必须有类/结构/联合
+  e:\vs2017\c++\vector\textquery.cpp(29): note: 类型是“unsigned int”
+e:\vs2017\c++\vector\textquery.cpp(30): error C2679: 二进制“[”: 没有找到接受“unsigned int”类型的右操作数的运算符(或没有可接受的转换)
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\map(350): note: 可能是“std::set<TextQuery::line_no,std::less<_Kty>,std::allocator<_Kty>> &std::map<std::string,std::set<_Kty,std::less<_Kty>,std::allocator<_Kty>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Ty>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+          with
+          [
+              _Kty=TextQuery::line_no,
+              _Ty=std::set<TextQuery::line_no,std::less<TextQuery::line_no>,std::allocator<TextQuery::line_no>>
+          ]
+  d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\map(184): note: 或    “std::set<TextQuery::line_no,std::less<_Kty>,std::allocator<_Kty>> &std::map<std::string,std::set<_Kty,std::less<_Kty>,std::allocator<_Kty>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Ty>>>::operator [](std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&)”
+          with
+          [
+              _Kty=TextQuery::line_no,
+              _Ty=std::set<TextQuery::line_no,std::less<TextQuery::line_no>,std::allocator<TextQuery::line_no>>
+          ]
+  e:\vs2017\c++\vector\textquery.cpp(30): note: 尝试匹配参数列表“(std::map<std::string,std::set<TextQuery::line_no,std::less<_Kty>,std::allocator<_Kty>>,std::less<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>,std::allocator<std::pair<const std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Ty>>>, unsigned int)”时
+          with
+          [
+              _Kty=TextQuery::line_no,
+              _Ty=std::set<TextQuery::line_no,std::less<TextQuery::line_no>,std::allocator<TextQuery::line_no>>
+          ]
+e:\vs2017\c++\vector\textquery.cpp(30): error C2228: “.insert”的左边必须有类/结构/联合
+  正在生成代码...

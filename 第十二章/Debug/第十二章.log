@@ -1,0 +1,8 @@
+﻿  12-4.cpp
+e:\vs2010\c++\第十二章\12-4.cpp(40): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\vs2010\c++\第十二章\12-4.cpp(61): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\vs2010\c++\第十二章\12-4.cpp(78): warning C4305: “参数”: 从“double”到“float”截断
+e:\vs2010\c++\第十二章\12-4.cpp(79): warning C4305: “参数”: 从“double”到“float”截断
+e:\vs2010\c++\第十二章\12-4.cpp(80): warning C4305: “参数”: 从“double”到“float”截断
+  第十二章.vcxproj -> E:\vs2010\C++\Debug\第十二章.exe
+  第十二章.vcxproj -> E:\vs2010\C++\Debug\第十二章.pdb (Partial PDB)
